@@ -42,7 +42,8 @@ video {
 .start-btn,
 #html5-qrcode-button-camera-stop,
 #html5-qrcode-button-camera-start,
-#html5-qrcode-button-file-selection {
+#html5-qrcode-button-file-selection,
+#html5-qrcode-button-camera-permission {
   background-color: #4caf50 !important;
   color: white;
   padding: 10px;
